@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Explanation for IxDF
+ * Explanation
  *
  * This PO product model observer is achieving the following functionalities:
  * 1. If the product cost is changed and the system is configured to restrict products to assigned suppliers,

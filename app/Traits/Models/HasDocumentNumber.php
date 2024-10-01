@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Explanation for IxDF
+ * Explanation
  *
  * The system allows each organization to have its own numbering formats for inventory and sales documents.
  * So I have moved that specific functionality to a model trait to achieve it without code repetition.

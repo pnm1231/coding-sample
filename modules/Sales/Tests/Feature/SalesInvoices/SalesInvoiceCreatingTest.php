@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Explanation for IxDF
+ * Explanation
  *
  * As mentioned in the trait's explanation, this model supports 3 different numbering behaviors.
  */

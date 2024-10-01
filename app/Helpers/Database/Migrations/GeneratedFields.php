@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Explanation for IxDF
+ * Explanation
  *
  * I am using generated fields in the database to calculate the discount, additional charge, and total of many models.
  * So I am calling methods in this helper class from migrations to prevent code repetition.

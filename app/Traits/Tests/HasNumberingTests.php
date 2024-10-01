@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Explanation for IxDF
+ * Explanation
  *
  * When it comes to numbering documents, the system behaves in 3 different ways.
  * 1. If the document has a "Company" attached, it will use the company's numbering settings.

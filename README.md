@@ -1,4 +1,4 @@
-# IxDF Samples
+# Code Samples - [Prasad N](https://github.com/pnm1231)
 
 This repository is a collection of code snippets and tests of a multi-tenant, multi-location inventory SaaS I built
 recently for a client.

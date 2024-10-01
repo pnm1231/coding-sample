@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Explanation for IxDF
+ * Explanation
  *
  * Goods received notes get marked as "Completed" in multiple places in the system. So I have this action
  * to do necessary checks that are required for a GRN to be marked as "Completed".
